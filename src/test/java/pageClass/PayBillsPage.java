@@ -9,7 +9,7 @@ public class PayBillsPage {
 	
 	WebDriver driver;
 	
-	
+	/*******Practise code****************/
 	
 	@FindBy (xpath="//a[text()='Add New Payee']")
 	public WebElement PayBillsLink;

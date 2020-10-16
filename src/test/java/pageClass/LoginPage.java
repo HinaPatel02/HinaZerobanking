@@ -3,7 +3,7 @@ package pageClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-
+/***********This is testing code**********/
 public class LoginPage {
 	
 	WebDriver driver;
