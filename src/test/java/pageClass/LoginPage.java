@@ -23,7 +23,7 @@ public class LoginPage {
 	
 	public void dologin(String myusername,String mypassword)
 	{
-		
+		///Testing for Zero banking
 		UserNameTextBox.sendKeys(myusername);
 		
 		PasswordTextBox.sendKeys(mypassword);

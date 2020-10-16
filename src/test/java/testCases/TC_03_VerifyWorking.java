@@ -8,7 +8,7 @@ public class TC_03_VerifyWorking {
 	
 	
 	
-	 int 1=a+b;
+	 int p=a+b;
 	
 	
 }
